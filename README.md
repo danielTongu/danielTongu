@@ -12,7 +12,7 @@ Computer Science graduate based in Ellensburg, Washington, building interactive 
 | [Networking Tools](https://github.com/danielTongu/networking-tools) | Go-Back-N and Selective Repeat simulations, encoding waveforms, transfer-time calculations, and reusable SVG diagrams | JavaScript, SVG, HTML, CSS |
 | [VMware ESXi Dashboard](https://github.com/danielTongu/VMware-ESXI) | Windows desktop administration UI for virtual machines, networks, classroom resources, orphaned files, and event logs | PowerShell, WinForms, VMware PowerCLI |
 | [Stock Portfolio Tracker](https://github.com/danielTongu/StockPortfolioTracker) | MVC-style PHP application, Alpha Vantage integration, session-based watchlist management, and interactive market charts | PHP, JavaScript, Chart.js, REST API |
-| [Android Chat and Task App](https://github.com/danielTongu/Chat-Android-App) | Authentication, messaging, task management, search, profiles, and Firebase integration | Java, Android, Firebase |
+| [Android Chat and Task App](https://github.com/danielTongu/library-system-management) | desktop software for a small library, with temporary memory or MySQL storage. |
 
 ## Skills
 
